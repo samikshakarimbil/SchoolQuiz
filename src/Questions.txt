@@ -1,0 +1,42 @@
+Question: MOVIE TRIVIA
+Which actress starred in the top two highest grossing movies of all time?
+a. Brie Larson
+b. Scarlett Johansson
+c. Zoe Saldana
+d. Emma Stone
+Answer: c
+Question: CURRENT AFFAIRS
+What are the medals for the 2020 Tokyo Olympics made out of?
+a. Recycled electronics
+b. Steel
+c. Carbon
+d. Recycled plastic
+Answer: a
+Question: GENERAL KNOWLEDGE
+Which state in India has the largest population?
+a. Andhra Pradesh
+b. Maharastra
+c. Bihar
+d. Uttar Pradesh
+Answer: d
+Question: MOVIE TRIVIA
+Which actor has appeared the most in MCU films?
+a. Samuel L. Jackson
+b. Chris Evans
+c. Robert Downey Jr.
+d. Chris Hemsworth
+Answer: c
+Question: ANIMALS
+Which animals heartbeat can be heard from a radius of 2 miles?
+a. Elephant
+b. Blue whale
+c. Jaguar
+d. Tiger
+Answer: b
+Question: ART
+Who painted the Mona Lisa?
+a. Pablo Picasso
+b. Vincent Van Gogh
+c. Michelangelo
+d. Leonardo da Vinci
+Answer: d
